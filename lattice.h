@@ -1,0 +1,1 @@
+extern void init_fcc(double positions[][3], int N, double lattice_param);
