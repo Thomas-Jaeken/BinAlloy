@@ -1,0 +1,9 @@
+BinAlloymodule.c
+README.md
+functions.c
+pyproject.toml
+setup.py
+BinAlloy.egg-info/PKG-INFO
+BinAlloy.egg-info/SOURCES.txt
+BinAlloy.egg-info/dependency_links.txt
+BinAlloy.egg-info/top_level.txt
