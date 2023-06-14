@@ -7,12 +7,14 @@ In the next version, the user will be able to pick metals from a list and even s
 
 # Installation
 The project is not yet listed on pipy
-To install the module to your computer, download the .whl file and execute
+To install the module to your computer, download the .whl file from the ```build``` folder and execute
 ```
 pip install $PATH/BinAlloy-0.1-cp39-cp39-macosx_10_9_x86_64.whl
 ```
 
 You can now use the module like you would any other python package.
 To understand better what the functionality offers, have a look at the following example:
+
+https://github.com/Thomas-Jaeken/BinAlloy/blob/b0c0eb1a9c0ea4ca8447ebe07366644890584683/example.py#LL1
 
 
